@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Smart_POS", "Smart_POS\Smart_POS.vbproj", "{D2F6F264-ED25-4EA9-9233-E358D2364BB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2F6F264-ED25-4EA9-9233-E358D2364BB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F6F264-ED25-4EA9-9233-E358D2364BB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F6F264-ED25-4EA9-9233-E358D2364BB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F6F264-ED25-4EA9-9233-E358D2364BB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01C1E4D9-1D6B-4980-976D-D9194EA2D9F3}
+	EndGlobalSection
+EndGlobal
