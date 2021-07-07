@@ -453,14 +453,7 @@ Public Class FrmProduct
             If TxtNetPrice.Text <> "" And TxtPay.Text <> "" Then
 
                 Dim change As Double
-                'Dim formatpay As Double = CDbl(TxtPay.Text)
-
-                'change = formatpay - CDbl(TxtNetPrice.Text)
-
                 change = CDbl(TxtPay.Text) - CDbl(TxtNetPrice.Text)
-
-
-                'TxtPay.Text = Format(formatpay, "#,###.00")
                 TxtChange.Text = Format(change, "#,###.00")
 
 
