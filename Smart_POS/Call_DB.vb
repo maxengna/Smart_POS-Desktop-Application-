@@ -7,7 +7,7 @@ Imports System.Text
 
 Module Call_DB
 
-    Public constring As String = "Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\maxxx\source\repos\Smart_POS\Smart_POS\My_Database.mdf;Integrated Security=True"
+    Public constring As String = "Your Connection String"
     Public sql As String = ""
     Public con As New SqlConnection
     Public table As New DataTable
